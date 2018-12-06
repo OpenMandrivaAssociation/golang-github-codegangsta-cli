@@ -1,0 +1,5 @@
+import:
+- package: gopkg.in/yaml.v2
+  version: 283fbcdd1e64975730a38609f8802ef983a43cb9
+package: github.com/codegangsta/cli
+
